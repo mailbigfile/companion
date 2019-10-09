@@ -101,7 +101,7 @@
     "tus-js-client": "^1.8.0-0",
     "uuid": "2.0.2",
     "validator": "^9.0.0",
-    "ws": "1.1.5"
+    "ws": "7.1.2"
   },
   "deprecated": false,
   "description": "OAuth helper and remote fetcher for Uppy's (https://uppy.io) extensible file upload widget with support for drag&drop, resumable uploads, previews, restrictions, file processing/encoding, remote providers like Dropbox and Google Drive, S3 and more :dog:",
